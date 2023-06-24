@@ -1,0 +1,111 @@
+
+
+
+#img1 {
+  box-shadow: -2px -1px 10px 0px;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+  border-style: double;
+  border-width: 1cap;
+  border: 50cap;
+  border-color: rgb(151, 128, 128);
+  /* border-inline-end-color: rgb(0, 0, 0); */
+}
+
+.img {
+  background-color: rgb(255, 251, 251);
+  /* object-position: 600px; */
+  padding: 20px;
+  margin: 566px;
+  border-radius: 200px;
+  color: rgb(190, 182, 182);
+  box-shadow: -2px -1px 15px 0px ;
+}
+
+.box {
+  background-color: rgb(255, 251, 251);
+  position: relative;
+  padding: 20px;
+  margin: 30px;
+  border-radius: 10px;
+  color: rgb(190, 182, 182);
+  box-shadow: -2px -1px 15px 0px ;
+}
+
+.box2 {
+  background-color: rgb(255, 251, 251);
+  position: relative;
+  padding: 20px;
+  margin: 30px;
+  border-radius: 10px;
+  color: rgb(190, 182, 182);
+  box-shadow: -2px -1px 15px 0px ;
+}
+
+.box3 {
+  background-color: rgb(255, 251, 251);
+  position: relative;
+  padding: 20px;
+  margin: 30px;
+  border-radius: 10px;
+  color: rgb(190, 182, 182);
+  box-shadow: -2px -1px 15px 0px ;
+}
+
+.box4 {
+  background-color: rgb(255, 251, 251);
+  position: relative;
+  padding: 20px;
+  margin: 30px;
+  border-radius: 10px;
+  color: rgb(190, 182, 182);
+  box-shadow: -2px -1px 15px 0px ;
+}
+
+
+.box5 {
+  background-color: rgb(255, 251, 251);
+  position: relative;
+  padding: 20px;
+  margin: 30px;
+  border-radius: 10px;
+  color: rgb(190, 182, 182);
+  box-shadow: -2px -1px 15px 0px ;
+}
+
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size:15px;
+  color: rgb(100, 54, 22);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: darkslategrey;
+}
+
+#Obj {
+  text-align: center;
+  font-style: italic;
+  color: #8a973f;
+}
+#ftr1 {
+  box-sizing : 200px ;
+  box-sizing : 100px;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+.biggerBox {
+  background-color: rgb(243, 243, 243);
+  position: relative;
+  padding: 20px;
+  margin: 30px;
+  border-radius: 12px;
+  color: rgb(190, 182, 182);
+  box-shadow: -4px -2px 20px 0px
+}
